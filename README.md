@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsylovezyx
+- 👋 Hi, I’m @bsylovewqx
 - 👀 I’m interested in html
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
