@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bsylovewqx
 - 👀 I’m interested in html
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,java,HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
